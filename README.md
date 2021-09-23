@@ -1,6 +1,7 @@
 <img align="left" width="400" height="300" src="https://user-images.githubusercontent.com/9990423/134596773-da5769a3-d764-44dd-90e9-3c914418461c.gif">
 <h1>Hi there 👋</h1>
 I'm Fulvio, Software Architect and tech addicted.
+<br>
 <ul>
 <li>😄 Pronouns: He/Him</li>
 <li>🌱 I’m currently learning golang and kubernetes</li>
