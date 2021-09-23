@@ -6,7 +6,7 @@ I'm Fulvio, Software Architect and tech addicted.
 * 😄 Pronouns: He/Him
 * 🌱 I’m currently learning golang and kubernetes
 * 🔭 I’m currently working on newsapi-go project
-* 📫 How to reach me: fulviodenza823@gmail.com
+* 📫 How to reach me: fulviodenza823[at]gmail.com
 <!--
 **fulviodenza/fulviodenza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
