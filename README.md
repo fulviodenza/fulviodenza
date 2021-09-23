@@ -1,6 +1,13 @@
+<style type="text/css">
+    .image-left {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      float: right;
+    }
+    </style>
 ### Hi there 👋
-![animation (1)](https://user-images.githubusercontent.com/9990423/134596773-da5769a3-d764-44dd-90e9-3c914418461c.gif)
-
+![animation (1)](https://user-images.githubusercontent.com/9990423/134596773-da5769a3-d764-44dd-90e9-3c914418461c.gif){: .image-left }
 I'm Fulvio, Software Architect and tech addicted.
 
 * 😄 Pronouns: He/Him
