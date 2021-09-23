@@ -1,8 +1,8 @@
 ### Hi there 👋
+![animation (1)](https://user-images.githubusercontent.com/9990423/134596773-da5769a3-d764-44dd-90e9-3c914418461c.gif)
 
 <!--
 **fulviodenza/fulviodenza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![animation (1)](https://user-images.githubusercontent.com/9990423/134596773-da5769a3-d764-44dd-90e9-3c914418461c.gif)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
