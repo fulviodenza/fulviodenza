@@ -1,10 +1,12 @@
 <img align="left" width="400" height="300" src="https://user-images.githubusercontent.com/9990423/134596773-da5769a3-d764-44dd-90e9-3c914418461c.gif">
 <h1>Hi there 👋</h1>
 I'm Fulvio, Software Architect and tech addicted.
-* 😄 Pronouns: He/Him
-* 🌱 I’m currently learning golang and kubernetes
-* 🔭 I’m currently working on newsapi-go project
-* 📫 How to reach me: fulviodenza823@gmail.com
+<ul>
+<li>😄 Pronouns: He/Him</li>
+<li>🌱 I’m currently learning golang and kubernetes</li>
+<li>🔭 I’m currently working on newsapi-go project</li>
+<li>📫 How to reach me: fulviodenza823@gmail.com</li>
+</ul>
 <!--
 **fulviodenza/fulviodenza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
