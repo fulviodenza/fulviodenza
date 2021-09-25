@@ -8,6 +8,9 @@ I'm Fulvio, Software Architect and tech addicted.
 <li>🔭 I’m currently working on newsapi-go project</li>
 <li>📫 How to reach me: fulviodenza823@gmail.com</li>
 </ul>
+[![](https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png)](https://fulvio.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/fulvio-denza-812967165/)
+
 <!--
 **fulviodenza/fulviodenza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
