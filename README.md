@@ -8,10 +8,6 @@ I'm Fulvio, Software Architect and tech addicted.
 <li>🔭 I’m currently working on newsapi-go project</li>
 <li>📫 How to reach me: fulviodenza823@gmail.com</li>
 </ul>
-[![Website](https://img.shields.io/badge/oitsjustjose.com-green?style=for-the-badge)](https://oitsjustjose.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/oitsjustjose?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Foitsjustjose&screen_name=oitsjustjose)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue)](https://oitsjustjo.se/u/linkedin)
-
 <!--
 **fulviodenza/fulviodenza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
