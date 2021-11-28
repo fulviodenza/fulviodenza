@@ -5,7 +5,7 @@ I'm Fulvio, Software Architect and tech addicted.
 <ul>
 <li>😄 Pronouns: He/Him</li>
 <li>🌱 I’m currently learning golang and kubernetes</li>
-<li>🔭 I’m currently working on newsapi-go project</li>
+<li>🔭 I’m currently working on GDLauncher rewriting in Golang, as announced on the discord channel</li>
 <li>📫 How to reach me: fulviodenza823@gmail.com</li>
 </ul>
 <br>
