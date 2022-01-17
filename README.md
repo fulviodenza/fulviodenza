@@ -8,7 +8,6 @@ I'm Fulvio, Software Architect and tech addicted.
 <li>🔭 I’m currently working on Tiruma project and learning more about software architectures and GraphQL in Golang</li>
 <li>📫 How to reach me: fulviodenza823[at]gmail.com</li>
 </ul>
-#[visitor badge](https://visitor-badge.glitch.me/badge?page_id=fulviodenza.fulviodenza)
 <br>
 <h1>
   Social
