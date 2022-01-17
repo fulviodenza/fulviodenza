@@ -5,9 +5,10 @@ I'm Fulvio, Software Architect and tech addicted.
 <ul>
 <li>😄 Pronouns: He/Him</li>
 <li>🌱 I’m currently learning golang and kubernetes</li>
-<li>🔭 I’m currently working on an IMDB in Golang and thinking about an improvement for my z80 emulator</li>
-<li>📫 How to reach me: fulviodenza823@gmail.com</li>
+<li>🔭 I’m currently working on Tiruma project and learning more about software architectures and GraphQL in Golang</li>
+<li>📫 How to reach me: fulviodenza823[at]gmail.com</li>
 </ul>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=fulviodenza.fulviodenza)
 <br>
 <h1>
   Social
