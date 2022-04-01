@@ -1,11 +1,11 @@
 <img align="left" width="400" height="250" src="https://user-images.githubusercontent.com/9990423/134596773-da5769a3-d764-44dd-90e9-3c914418461c.gif">
 <h1>Hi there 👋</h1>
-I'm Fulvio, Software Architect and tech addicted.
+I'm Fulvio, Software Engineer and tech addicted.
 <br>
 <ul>
 <li>😄 Pronouns: He/Him</li>
-<li>🌱 I’m currently learning golang and kubernetes</li>
-<li>🔭 I’m currently working on Tiruma project and learning more about software architectures and GraphQL in Golang</li>
+<li>🌱 Currently working with golang for PathAI</li>
+<li>🔭 Learning more about software architectures and GraphQL in Golang</li>
 <li>📫 How to reach me: fulviodenza823[at]gmail.com</li>
 </ul>
 <br>
