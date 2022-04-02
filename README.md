@@ -4,7 +4,7 @@ I'm Fulvio, Software Engineer and tech addicted.
 <br>
 <ul>
 <li>😄 Pronouns: He/Him</li>
-<li>🌱 Currently working with golang for PathAI</li>
+<li>🌱 Currently working with golang for PatchAI</li>
 <li>🔭 Learning more about software architectures and GraphQL in Golang</li>
 <li>📫 How to reach me: fulviodenza823[at]gmail.com</li>
 </ul>
