@@ -1,31 +1,18 @@
-<img align="left" width="400" height="250" src="https://user-images.githubusercontent.com/9990423/134596773-da5769a3-d764-44dd-90e9-3c914418461c.gif">
-<h1>Hi there 👋</h1>
+# Hi there 👋
+
 I'm Fulvio, Software Engineer and tech addicted.
-<br>
-<ul>
-<li>😄 Pronouns: He/Him</li>
-<li>🌱 Currently working with golang for PatchAI</li>
-<li>🔭 Learning more about software architectures and GraphQL in Golang</li>
-<li>📫 How to reach me: fulviodenza823[at]gmail.com</li>
-</ul>
-<br>
-<h1>
-  Social
-</h1>
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+* 😄 Pronouns: He/Him</br>
+* 🌱 Currently working with golang for PatchAI</br>
+* 🔭 Learning more about software architectures and GraphQL in Golang</br>
+* 📫 How to reach me: fulviodenza823[at]gmail.com
 
 
-[twitter]: https://twitter.com/fulviodenza
-[linkedin]: https://www.linkedin.com/in/fulvio-denza-812967165/
-<!--
-**fulviodenza/fulviodenza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
+### My Stats
+
+![Fulvio's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=fulviodenza&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
+
+### Social
 
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.linkedin.com/in/fulvio-denza-812967165/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
