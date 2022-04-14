@@ -3,8 +3,8 @@
 I'm Fulvio, Software Engineer and tech addicted.
 
 * 😄 Pronouns: He/Him</br>
-* 🌱 Currently working with golang for PatchAI</br>
-* 🔭 Learning more about software architectures and GraphQL in Golang</br>
+* 🌱 Working with golang for PatchAI</br>
+* 🔭 Learning more about software architectures, GraphQL and gRPC in Golang</br>
 * 📫 How to reach me: fulviodenza823[at]gmail.com
 
 
