@@ -1,6 +1,6 @@
 ## Hola
-I'm Fulvio, from Italy based in Spain.
-I'm a freelancer software engineer, working mainly with the technologies you see in my profile
+I'm Fulvio, from Italy based in Barcelona.
+I'm a freelancer software engineer, working mainly with the technologies you see in my Github profile.
 My currently active projects are:
 - [notion-echo bot](https://www.github.com/fulviodenza/notion-echo)
 - [rankore bot](https://www.github.com/fulviodenza/rankore)
