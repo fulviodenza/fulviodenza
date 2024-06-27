@@ -2,6 +2,7 @@
 I'm Fulvio, from Italy based in Barcelona.
 I'm a freelancer software engineer, working mainly with the technologies you see in my Github profile.
 My currently active projects are:
+- [torproxy](https://www.github.com/fulviodenza/torproxy)
 - [notion-echo bot](https://www.github.com/fulviodenza/notion-echo)
 - [rankore bot](https://www.github.com/fulviodenza/rankore)
 - [pills-of-cs bot](https://www.github.com/fulviodenza/pills-of-cs)
