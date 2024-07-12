@@ -8,3 +8,5 @@ My currently active projects are:
 - [pills-of-cs bot](https://www.github.com/fulviodenza/pills-of-cs)
 - A secret project written in Go and React Native in a remote land that hopely you will hear about in a few month
 - Also a book but this is all another story
+
+**Latest article:** https://fulviodenza.substack.com/p/a-practical-introduction-to-kubernetes
