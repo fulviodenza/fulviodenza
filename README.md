@@ -7,3 +7,5 @@ My currently active projects are:
 - [notion-echo bot](https://notion-echo.fulvio.dev/)
 
 **Latest article:** https://fulviodenza.substack.com/p/a-practical-introduction-to-kubernetes
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J01GT7A1)
